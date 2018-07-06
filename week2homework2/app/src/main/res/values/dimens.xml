@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="image_heigth">400dp</dimen>
+    <dimen name="edit_width">110dp</dimen>
+    <dimen name="edit_height">40dp</dimen>
+    <dimen name="size_button">20dp</dimen>
+</resources>
